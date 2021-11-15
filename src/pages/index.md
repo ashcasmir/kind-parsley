@@ -5,7 +5,7 @@ sections:
     title: FitPandas
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Contact Us
         url: /pricing
         style: primary
     image: images/hero.svg
