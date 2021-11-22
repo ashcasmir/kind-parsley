@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Power of Small Changes!
-    subtitle: Build the momentum with a friendly pat from your peers
+    subtitle: A friendly pat from your peers to build the momentum
     actions:
       - label: Get Started
         url: /pricing
