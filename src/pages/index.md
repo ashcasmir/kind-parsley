@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Power of Small Changes!
-    subtitle: Harness the Impact of Your Peers to Improve Your Health!
+    subtitle: Harness the Impact of Your Peers to Improve Your Health.
     actions:
       - label: Get Started
         url: /pricing
