@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Mighty Power of Small Changes!
+    title: The Power of Small Changes!
     subtitle: The Mighty Power of Small Changes
     actions:
       - label: Get Started
