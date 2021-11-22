@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Why Choose FitPandas?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
