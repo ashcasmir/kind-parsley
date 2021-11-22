@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: Why Choose FitPandas?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Harness the Power of Peer Pressure for Your Health!
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
