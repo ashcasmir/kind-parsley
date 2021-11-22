@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Power of Small Changes!
-    subtitle: The Mighty Power of Small Changes
+    subtitle: Build the momentum with a friendly pat from your peers
     actions:
       - label: Get Started
         url: /pricing
