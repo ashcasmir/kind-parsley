@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Power of Small Changes!
-    subtitle: A friendly pat from your peers to build the momentum.
+    subtitle: Harness the Power of Peer Pressure for Your Health!
     actions:
       - label: Get Started
         url: /pricing
