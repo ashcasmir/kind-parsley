@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: FitPandas
+    title: The Mighty Power of Small Changes!
     subtitle: The Mighty Power of Small Changes
     actions:
       - label: Get Started
