@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: FitPandas
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: The Mighty Power of Small Changes
     actions:
       - label: Get Started
         url: /pricing
