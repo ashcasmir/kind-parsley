@@ -86,7 +86,7 @@ sections:
         actions: []
     feature_padding_vert: small
     background_color: none
-    title: Being a FitP
+    title: Being a FitPandas
   - type: grid_section
     title: How it works
     grid_items:
