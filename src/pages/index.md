@@ -35,7 +35,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Competing against Friends
+      - title: Competing against Friends!
         content: >+
           Friends and Family are an integral part of our life. They motivate you
           to achieve your goals. With FitPandas array of challenges, you can
