@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: Why Choose FitPandas?
     features:
-      - title: Self-reflection with your peers!
+      - title: Savor the essence of healthy life!
         content: >
           As a part of FitPandas, you can tweak your daily routine to build
           systems and habits to lead a healthier life along with your friends
