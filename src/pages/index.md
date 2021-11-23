@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: Why Choose FitPandas?
     features:
-      - title: Savor the essence of healthy life!
+      - title: Savor the essence of Healthy life!
         content: "As a part of FitPandas, you can tweak your daily routine to build systems and habits with better accountability, commitment and rewards\_\n along with your friends and family.\n"
         actions:
           - label: Learn More
