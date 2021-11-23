@@ -54,9 +54,11 @@ sections:
         media_position: left
         media_width: sixty
       - title: No App!
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          We are just a message away in your INBOX. We provide flexible group
+          reminders, personalised tips and data to track your progress to build
+          hearty habits. With FitPandas, you improve your Health today and lower
+          your Medical cost tomorrow.
         actions:
           - label: Learn More
             url: /thank-you
