@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: Why Choose FitPandas?
     features:
-      - title: Self-reflection of your actions to priortize health
+      - title: Self-reflection with your peers!
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
