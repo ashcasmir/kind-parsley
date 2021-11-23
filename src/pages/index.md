@@ -36,11 +36,12 @@ sections:
         media_position: right
         media_width: sixty
       - title: Competing against Friends!
-        content: >
+        content: >+
           Friends and Family are an integral part of our life. They motivate you
-          to achieve your goals. With FitPandas array of challenges, you can
-          make tiny changes to raise the level of productivity and structure in
-          your life.
+          to achieve your goals. With FitPandas helps you to have a REAL
+          connection with your peers to make you happier, more productive, and
+          less likely to have health problems.
+
         actions:
           - label: Learn More
             url: /thank-you
