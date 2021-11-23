@@ -94,10 +94,10 @@ sections:
     grid_items:
       - title: What to Do
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          New habits take time, perseverance and commitment to achieve
+          significant change. With FitPandas you can do small activities daily
+          that helps you to lead a healthy lifestyle ENDS along with your peers.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
