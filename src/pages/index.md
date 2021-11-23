@@ -80,7 +80,7 @@ sections:
           for the day. And then I see the messages from my fellow FitPandas.
           This pushes me to do the activity and persist in my daily health
           routine".
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: Vikram S
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
