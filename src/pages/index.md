@@ -36,12 +36,11 @@ sections:
         media_position: right
         media_width: sixty
       - title: Competing against Friends!
-        content: >+
+        content: >
           Friends and Family are an integral part of our life. They motivate you
           to achieve your goals. With FitPandas array of challenges, you can
-          make tiny actions to raise the level of productivity and structure in
-          your life
-
+          make tiny changes to raise the level of productivity and structure in
+          your life.
         actions:
           - label: Learn More
             url: /thank-you
