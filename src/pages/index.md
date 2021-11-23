@@ -76,8 +76,10 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
+          There are days when I’m exhausted and have not finished my activity
+          for the day. And then I see the messages from my fellow FitPandas in
+          the program. This pushes me to do the activity for the day and persist
+          in my daily health routine.
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
