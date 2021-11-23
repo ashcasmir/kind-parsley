@@ -23,9 +23,10 @@ sections:
     title: Why Choose FitPandas?
     features:
       - title: Self-reflection with your peers!
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          As a part of FitPandas, you can tweak your daily routine to build
+          systems and habits to lead a healthier life along with your friends
+          and family. 
         actions:
           - label: Learn More
             url: /thank-you
