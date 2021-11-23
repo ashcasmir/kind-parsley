@@ -86,7 +86,7 @@ sections:
         actions: []
     feature_padding_vert: small
     background_color: none
-    title: 'Being a '
+    title: Being a FitPn
   - type: grid_section
     title: How it works
     grid_items:
